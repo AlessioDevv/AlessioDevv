@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @asdevv (Alessio)
 - 👀 I’m interested in development and learn a new languages of programming
 - 🌱 I’m currently learning java and html, css, js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarica.alessio@outlook.it
 
 <!---
